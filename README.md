@@ -2,7 +2,7 @@
 
 # Hello World!, I'm Douae 👋🏼:
 
-📚 Currently a second-year student pursuing a degree in Embedded Systems Engineering 👩🏽‍🎓 at the Higher School of Technology 🏫 in Oujda.
+📚 Currently a second-year student pursuing a degree in Embedded Systems Engineering 👩🏽‍🎓 <br> at the Higher School of Technology 🏫 in Oujda.
 
 ## 🌐 Socials:
 
