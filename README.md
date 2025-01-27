@@ -14,11 +14,13 @@
 
 # ✍️ Random Dev Quote:
 
-<div align="left">
-  <img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Eycnk0YnJ3bGV0bHAwNnRycTJ2Yjk3MHIzNWtycDByOGNhdzg5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uBf6DMek6OKjgq2oDA/giphy.gif" alt="Coding Gif" />
-  <h4>"Good code is its own best documentation."<br><em>- Steve McConnell</em></h4>
-  <h4>"Simplicity is the soul of efficiency."<br><em>- Austin Freeman</em></h4>
-</div>
+###
+
+<img align="right" height="130" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Eycnk0YnJ3bGV0bHAwNnRycTJ2Yjk3MHIzNWtycDByOGNhdzg5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uBf6DMek6OKjgq2oDA/giphy.gif"  />
+
+###
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
 
