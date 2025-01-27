@@ -16,15 +16,21 @@
 
 ###
 
-<img align="right" height="130" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Eycnk0YnJ3bGV0bHAwNnRycTJ2Yjk3MHIzNWtycDByOGNhdzg5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uBf6DMek6OKjgq2oDA/giphy.gif"  />
+<img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Eycnk0YnJ3bGV0bHAwNnRycTJ2Yjk3MHIzNWtycDByOGNhdzg5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uBf6DMek6OKjgq2oDA/giphy.gif" />
 
 ###
 
-<H4 align="left">"Good code is its own best documentation."<br>&nbps&nbps&nbps&nbps -Steve McConnell</H4>
+<h4 align="left" style="color: white; background-color: black; padding: 10px; border-radius: 5px;">
+  <span style="color: pink;">"Good code is its own best documentation."</span><br>
+  <span style="color: blue;">- Steve McConnell</span>
+</h4>
 
 ###
 
-<h4 align="left">"Simplicity is the soul of efficiency."<br>&nbps&nbps&nbps&nbps – Austin Freeman</h4>
+<h4 align="left" style="color: white; background-color: black; padding: 10px; border-radius: 5px;">
+  <span style="color: pink;">"Simplicity is the soul of efficiency."</span><br>
+  <span style="color: blue;">– Austin Freeman</span>
+</h4>
 
 ###
 
