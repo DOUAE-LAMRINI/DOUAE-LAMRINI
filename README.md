@@ -14,25 +14,11 @@
 
 # ✍️ Random Dev Quote:
 
-###
-
-<img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Eycnk0YnJ3bGV0bHAwNnRycTJ2Yjk3MHIzNWtycDByOGNhdzg5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uBf6DMek6OKjgq2oDA/giphy.gif" />
-
-###
-
-<h4 align="left" style="color: white; background-color: black; padding: 10px; border-radius: 5px;">
-  <span style="color: pink;">"Good code is its own best documentation."</span><br>
-  <span style="color: blue;">- Steve McConnell</span>
-</h4>
-
-###
-
-<h4 align="left" style="color: white; background-color: black; padding: 10px; border-radius: 5px;">
-  <span style="color: pink;">"Simplicity is the soul of efficiency."</span><br>
-  <span style="color: blue;">– Austin Freeman</span>
-</h4>
-
-###
+<div align="left">
+  <img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Eycnk0YnJ3bGV0bHAwNnRycTJ2Yjk3MHIzNWtycDByOGNhdzg5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uBf6DMek6OKjgq2oDA/giphy.gif" alt="Coding Gif" />
+  <h4>"Good code is its own best documentation."<br><em>- Steve McConnell</em></h4>
+  <h4>"Simplicity is the soul of efficiency."<br><em>- Austin Freeman</em></h4>
+</div>
 
 # 📊 GitHub Stats:
 
