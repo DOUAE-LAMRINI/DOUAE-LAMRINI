@@ -20,11 +20,11 @@
 
 ###
 
-<p align="left">"Good code is its own best documentation."<br>&nbps&nbps&nbps&nbps -Steve McConnell</p>
+<H4 align="left">"Good code is its own best documentation."<br>&nbps&nbps&nbps&nbps -Steve McConnell</H4>
 
 ###
 
-<p align="left">"Simplicity is the soul of efficiency."<br>&nbps&nbps&nbps&nbps – Austin Freeman</p>
+<h4 align="left">"Simplicity is the soul of efficiency."<br>&nbps&nbps&nbps&nbps – Austin Freeman</h4>
 
 ###
 
