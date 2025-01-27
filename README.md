@@ -14,13 +14,16 @@
 
 # ✍️ Random Dev Quote:
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-###
-
-<img align="right" height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm84NHo3dGI3azJpNzVwOG9udWd3eXdxYW1lczR3N280Ynh1OGlkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sdE3nPpHFocSgzvoS3/giphy.gif"  />
-
-###
+<table>
+  <tr>
+    <td>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+    </td>
+    <td>
+      <img height="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Eycnk0YnJ3bGV0bHAwNnRycTJ2Yjk3MHIzNWtycDByOGNhdzg5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uBf6DMek6OKjgq2oDA/giphy.gif" alt="GIF" />
+    </td>
+  </tr>
+</table>
 
 # 📊 GitHub Stats:
 
