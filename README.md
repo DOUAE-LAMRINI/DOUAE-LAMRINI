@@ -1,14 +1,20 @@
 <img src="git_images/banner_github.png" alt="GitHub Banner" width="100%" />
 
 <h1 align="center">Hi there 👋, I'm Douae Lamrini</h1>
-<p align="center">🎓 Embedded Systems Engineering student | IoT & AI Enthusiast | Full-Stack Web Developer</p>
+<p align="center">🎓 Second-year Embedded Systems Engineering student at the Higher School of Technology, Oujda. Passionate about smart systems, AI, IoT, and full-stack web development.</p>
 
 ---
 
 ## 🌐 Connect with Me
+
 <p align="center">
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/douae.lamrini.12) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/douae._.lamrini/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douae-lamrini) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://fr.pinterest.com/douaelamrini/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DouaeLamri19492)
+  <a href="https://www.linkedin.com/in/douae-lamrini"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://web.facebook.com/douae.lamrini.12"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/douae._.lamrini/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://fr.pinterest.com/douaelamrini/"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+  <a href="https://x.com/DouaeLamri19492"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
+
 ---
 
 ## 💻 Tech Stack
