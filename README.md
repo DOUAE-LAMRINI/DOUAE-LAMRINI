@@ -8,11 +8,11 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/douae-lamrini"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://web.facebook.com/douae.lamrini.12"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/douae._.lamrini/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://fr.pinterest.com/douaelamrini/"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
-  <a href="https://x.com/DouaeLamri19492"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/douae-lamrini"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://web.facebook.com/douae.lamrini.12"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="https://www.instagram.com/douae._.lamrini/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://x.com/DouaeLamri19492"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://fr.pinterest.com/douaelamrini/"><img src="https://skillicons.dev/icons?i=pinterest" /></a>
 </p>
 
 ---
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 ### 📡 IoT & Networking
