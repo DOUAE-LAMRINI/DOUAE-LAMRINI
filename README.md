@@ -6,15 +6,9 @@
 ---
 
 ## 🌐 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/douae-lamrini"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://web.facebook.com/douae.lamrini.12"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-  <a href="https://www.instagram.com/douae._.lamrini/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://x.com/DouaeLamri19492"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://fr.pinterest.com/douaelamrini/"><img src="https://skillicons.dev/icons?i=pinterest" /></a>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/douae.lamrini.12) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/douae._.lamrini/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douae-lamrini) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://fr.pinterest.com/douaelamrini/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DouaeLamri19492)
 </p>
-
 ---
 
 ## 💻 Tech Stack
