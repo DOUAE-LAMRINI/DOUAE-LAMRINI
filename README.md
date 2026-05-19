@@ -109,6 +109,3 @@ Passionate about smart systems, AI, IoT, and full-stack web development.</p>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DOUAE-LAMRINI&icon=6&color=6" alt="Profile Views" />
-</p>
