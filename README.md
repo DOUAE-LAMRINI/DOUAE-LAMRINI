@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/DOUAE-LAMRINI/DOUAE-LAMRINI/main/banner_github.png" alt="GitHub Banner" width="100%" />
 
 <h1 align="center">Hi there 👋, I'm Douae Lamrini</h1>
 <p align="center">🎓 First-year Artificial Intelligence Engineering student at ENIADB.<br/>
