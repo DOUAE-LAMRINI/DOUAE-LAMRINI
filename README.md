@@ -81,45 +81,27 @@ Passionate about smart systems, AI, IoT, and full-stack web development.</p>
 </p>
 
 ---
+📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DOUAE-LAMRINI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUAE-LAMRINI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DOUAE-LAMRINI&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
-## 📊 GitHub Stats & Activity
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=DOUAE-LAMRINI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUAE-LAMRINI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DOUAE-LAMRINI&theme=tokyonight&hide_border=true" width="60%" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🐍 Contribution Snake
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DOUAE-LAMRINI/DOUAE-LAMRINI/output/github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DOUAE-LAMRINI/DOUAE-LAMRINI/output/github-snake.svg" />
-        <img src="https://raw.githubusercontent.com/DOUAE-LAMRINI/DOUAE-LAMRINI/output/github-snake.svg" alt="Contribution Snake" width="100%" />
-      </picture>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DOUAE-LAMRINI&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
+🐍 Contribution Snake & Activity
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DOUAE-LAMRINI/DOUAE-LAMRINI/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DOUAE-LAMRINI/DOUAE-LAMRINI/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/DOUAE-LAMRINI/DOUAE-LAMRINI/output/github-snake.svg" alt="Contribution Snake" width="100%" />
+  </picture>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DOUAE-LAMRINI&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=DOUAE-LAMRINI&icon=6&color=6" alt="Profile Views" />
