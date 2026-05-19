@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/DOUAE-LAMRINI/DOUAE-LAMRINI/main/banner_github.png" alt="GitHub Banner" width="100%" />
+<p align="center">
+  <img src="https://douae-lamrini.github.io/DOUAE-LAMRINI/banner_github.png" alt="GitHub Banner" width="100%" />
+</p>
 
 <h1 align="center">Hi there 👋, I'm Douae Lamrini</h1>
 <p align="center">🎓 First-year Artificial Intelligence Engineering student at ENIADB.<br/>
@@ -81,27 +83,31 @@ Passionate about smart systems, AI, IoT, and full-stack web development.</p>
 </p>
 
 ---
-📊 GitHub Stats & Activity
+
+## 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DOUAE-LAMRINI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOUAE-LAMRINI&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DOUAE-LAMRINI&theme=tokyonight" height="160" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DOUAE-LAMRINI&theme=tokyonight" height="160" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DOUAE-LAMRINI&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=DOUAE-LAMRINI&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
-🐍 Contribution Snake & Activity
+---
+
+## 🐍 Contribution Snake & Activity
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DOUAE-LAMRINI/DOUAE-LAMRINI/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DOUAE-LAMRINI/DOUAE-LAMRINI/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/DOUAE-LAMRINI/DOUAE-LAMRINI/output/github-snake.svg" alt="Contribution Snake" width="100%" />
-  </picture>
+  <img src="https://douae-lamrini.github.io/DOUAE-LAMRINI/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DOUAE-LAMRINI&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=DOUAE-LAMRINI&icon=6&color=6" alt="Profile Views" />
