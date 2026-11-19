@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://douae-lamrini.github.io/DOUAE-LAMRINI/banner_github.png" alt="GitHub Banner" width="100%" />
+  <img src="./banner_github.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Douae Lamrini</h1>
